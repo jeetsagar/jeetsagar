@@ -1,6 +1,6 @@
 - interested in ML, HPC
 - currently learning CUDA, PyTorch.
-- How to reach me jeetsagar@outlook.com
+- jeetsagar@outlook.com
 
 <!---
 jeetsagar/jeetsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
